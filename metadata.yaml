@@ -1,5 +1,8 @@
 _repo: Tipos-y-paisajes_71369
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71369-h/images/cover.jpg
 creator:
   author:
     agent_name: Pereda, José María de
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
     - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71369#Tipos-y-paisajes
 gutenberg_issued: '2023-08-08'
 identifiers:
   gutenberg: '71369'
